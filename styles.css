@@ -85,7 +85,7 @@ img a {
     font-size: 2om;
     color: white;
 }
-.feature-cardsr:hover {
+.feature-cards:hover {
     transform: translateY(-5px) scale(1.05);
     box-shadow:0 10px 20px rgb(0 0 0 0.15);
 }
@@ -99,4 +99,5 @@ img a {
 }
 .vsm {
     background-color: rgb(148, 155, 170);
+
 }
